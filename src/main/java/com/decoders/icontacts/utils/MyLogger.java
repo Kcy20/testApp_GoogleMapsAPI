@@ -10,7 +10,7 @@ public class MyLogger {
     private static final String tag = "MyLogger";
     private static final boolean showLogs = true;
     private static StringBuilder builder = new StringBuilder();
-    private static final String email = "saif052m@gmail.com";
+    private static final String email = "yangk60@gmail.com";
 
     public static void loge(String s){
         if(showLogs)
