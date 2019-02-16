@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">iContacts</string>
+    <string name="no_contacts">No Contacts</string>
+    <string name="add">+</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="notes">Notes</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="call">Call</string>
+    <string name="crash_toast_text">send crash report to developer</string>
+</resources>
